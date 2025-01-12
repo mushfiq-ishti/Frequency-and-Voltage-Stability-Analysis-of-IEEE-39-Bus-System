@@ -1,0 +1,113 @@
+--                            Bus          Bus ID   Bus number
+
+                           BUS_ID            B10,      1
+                           BUS_ID            B20,      2
+                           BUS_ID            B30,      3
+                           BUS_ID            B11,      4
+                           BUS_ID            B21,      5
+                           BUS_ID            B31,      6
+                           BUS_ID            B12,      7
+                           BUS_ID            B22,      8
+                           BUS_ID            B32,      9
+                           BUS_ID            B13,     10
+                           BUS_ID            B23,     11
+                           BUS_ID            B33,     12
+                           BUS_ID            B14,     13
+                           BUS_ID            B24,     14
+                           BUS_ID            B34,     15
+                           BUS_ID            B15,     16
+                           BUS_ID            B25,     17
+                           BUS_ID            B35,     18
+                           BUS_ID            B16,     19
+                           BUS_ID            B26,     20
+                           BUS_ID            B36,     21
+                           BUS_ID            B17,     22
+                           BUS_ID            B27,     23
+                           BUS_ID            B37,     24
+                           BUS_ID            B18,     25
+                           BUS_ID            B28,     26
+                           BUS_ID            B38,     27
+                           BUS_ID            B19,     28
+                           BUS_ID            B29,     29
+                           BUS_ID            B39,     30
+                           BUS_ID             B1,     31
+                           BUS_ID             B2,     32
+                           BUS_ID             B3,     33
+                           BUS_ID             B4,     34
+                           BUS_ID             B5,     35
+                           BUS_ID             B6,     36
+                           BUS_ID             B7,     37
+                           BUS_ID             B8,     38
+                           BUS_ID             B9,     39
+
+
+----------------------------------------------------------------------------------------------
+--                      Generator        COMPO ID Machine number
+
+                        SYNMAC_ID            G02,      1
+                        SYNMAC_ID            G03,      2
+                        SYNMAC_ID            G04,      3
+                        SYNMAC_ID            G05,      4
+                        SYNMAC_ID            G06,      5
+                        SYNMAC_ID            G07,      6
+                        SYNMAC_ID            G08,      7
+                        SYNMAC_ID            G09,      8
+                        SYNMAC_ID            G10,      9
+                        SYNMAC_ID            G01,     10
+
+
+----------------------------------------------------------------------------------------------
+--                         Branch       Branch id Bus From num Bus To numbe Circuit Numb
+
+                          LINE_ID            L10,     35           38            1
+                          LINE_ID            L20,     16           19            1
+                          LINE_ID            L30,     17           20            1
+                          LINE_ID            L11,     36           37            1
+                          LINE_ID            L21,     19           22            1
+                          LINE_ID            L31,     20           23            1
+                          LINE_ID            L12,     36            4            1
+                          LINE_ID            L22,     19           28            1
+                          LINE_ID            L32,     20           26            1
+                          LINE_ID            L13,     37           38            1
+                          LINE_ID            L23,     19            5            1
+                          LINE_ID            L33,     20           29            1
+                          LINE_ID            L14,     38           39            1
+                          LINE_ID            L24,     19           14            1
+                          LINE_ID            L34,     26           29            1
+                          LINE_ID            L15,     39           30            1
+                          LINE_ID            L25,     22           25            1
+                          LINE_ID            L16,      1            4            1
+                          LINE_ID            L26,     22           23            1
+                          LINE_ID            L17,      1           10            1
+                          LINE_ID            L27,      5            8            1
+                          LINE_ID            L18,     10           13            1
+                          LINE_ID            L28,      8           11            1
+                          LINE_ID            L19,     13           16            1
+                          LINE_ID            L29,     11           14            1
+                          LINE_ID             L1,     31           32            1
+                          LINE_ID             L2,     31           30            1
+                          LINE_ID             L3,     32           33            1
+                          LINE_ID             L4,     32           17            1
+                          LINE_ID             L5,     33           34            1
+                          LINE_ID             L6,     33           25            1
+                          LINE_ID             L7,     34           35            1
+                          LINE_ID             L8,     34           13            1
+                          LINE_ID             L9,     35           36            1
+
+
+----------------------------------------------------------------------------------------------
+--                         Branch       Branch id Bus From num Bus To numbe Circuit Numb
+
+                           TCF_ID            T10,     32            3            1
+                           TCF_ID            T01,      7            4            1
+                           TCF_ID            T11,     29           27            1
+                           TCF_ID            T02,      7           10            1
+                           TCF_ID            T12,     28            2            1
+                           TCF_ID            T03,     36            6            1
+                           TCF_ID            T04,      1            9            1
+                           TCF_ID            T05,     28           12            1
+                           TCF_ID            T06,      2           15            1
+                           TCF_ID            T07,      8           18            1
+                           TCF_ID            T08,     11           21            1
+                           TCF_ID            T09,     17           24            1
+
